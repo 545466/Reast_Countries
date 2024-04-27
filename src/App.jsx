@@ -13,7 +13,7 @@ function App() {
   return (
     <>
       <Header dark={dark} toggleDark={toggleDark}/>
-      <Country da={dark}/>
+      <Country dark={dark}/>
     </>
   );
 }
